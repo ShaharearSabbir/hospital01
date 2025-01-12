@@ -81,6 +81,9 @@ nav {
 .menu-1 li {
     list-style: none;
     margin-right: 21px;
+}
+
+.menu-1 li a {
     color: var(--text-color);
 }
 
